@@ -1,0 +1,7 @@
+org: teerzo
+app: horsey
+component: express
+name: express
+
+inputs:
+  src: ./
